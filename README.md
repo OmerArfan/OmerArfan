@@ -2,9 +2,9 @@
 "Mom, can we have Lil Robo at home?"
 "We already have Lil Robo at home!"
 Lil Robo at home:
-        %                     %
-      %   %                 %   %
-    %       %             %       %
+        %                   %
+      %   %               %   %
+    %       %           %       %
 
                $$$$$$$
                 $$$$$
