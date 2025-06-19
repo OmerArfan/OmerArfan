@@ -16,10 +16,10 @@ Lil Robo at home:
 Omer Arfan from Lil Robo Studios
 ----------
 Age: 16
-Working on: platformer02
+Working on: platformer02 and the Lil Robo Studios Website!
 
 Languages & Tools:
-  Python, JSON
+  Python, JSON, HTML
 
 Socials:
   YouTube:  LilRoboStudios
