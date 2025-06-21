@@ -19,7 +19,7 @@ Age: 16
 Working on: platformer02 and the Lil Robo Studios Website!
 
 Languages & Tools:
-  Python, JSON, HTML
+  Python, JSON, HTML, Bash
 
 Socials:
   YouTube:  LilRoboStudios
