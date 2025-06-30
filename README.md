@@ -26,5 +26,5 @@ Socials:
 
 About Me:
   Just hoping to continue coding...
-  I prefer not interacting, so... yeah don't expect me to reply if you have any queries lol
+  I'd like to apologize if my old site was not as welcoming, but... have fun trying my game out! Uhm I need to update the SetUpGame folder oops...
 ```
