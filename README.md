@@ -13,18 +13,10 @@ Lil Robo at home:
 
 ```
 ```
-Omer Arfan from Lil Robo Studios
+
 ----------
-Age: 16
-Working on: platformer02 and the Lil Robo Studios Website!
-
-Languages & Tools:
-  Python, JSON, HTML, Bash
-
-Socials:
-  YouTube:  LilRoboStudios
+YouTube:  LilRoboStudios
 
 About Me:
-  Just hoping to continue coding...
-  I'd like to apologize if my old site was not as welcoming, but... have fun trying my game out! Uhm I need to update the SetUpGame folder oops...
-```
+Hello world! I am Omer Arfan, from Lil Robo Studios! It's a self made mini studio, but hopefully it can be something I actively work on in the future... thank you college!
+I'm a 16 year old dude, currently trying to finalize platformer02 and exploring other cool areas of software... if ypu find an issue or have  asuggestion in my projects, feel free to suggest it to me!
