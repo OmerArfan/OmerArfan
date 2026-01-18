@@ -1,22 +1,14 @@
-```
-"Mom, can we have Lil Robo at home?"
-"We already have Lil Robo at home!"
-Lil Robo at home:
-        %                   %
-      %   %               %   %
-    %       %           %       %
+### About Me
+Hello world! I am **Omer Arfan**, from **Lil Robo Studios**! It’s a small self-made studio, and I hope to grow it into something I work on actively in the future.
 
-               $$$$$$$
-                $$$$$
-                 $$$
+I'm 17 years old and currently working on **Roboquix**, a platformer game you can check out [here](https://github.com/OmerArfan/platformer02). 
 
+If you want to learn more about the game or follow my progress, feel free to explore the repository!
 
-```
-```
+Or if you are just here out of curiosity, you're welcome to explore everything I've made or starred!
 
-----------
-YouTube:  LilRoboStudios
+---
 
-About Me:
-Hello world! I am Omer Arfan, from Lil Robo Studios! It's a self made mini studio, but hopefully it can be something I actively work on in the future... thank you college!
-I'm a 17 year old dude, currently working on Roboquix! if ypu find an issue or have  asuggestion in my projects, feel free to suggest it to me!
+### Links:
+  - [YouTube](https://www.youtube.com/@LilRoboStudios)
+  - [Website](https://omerarfan.github.io/lilrobowebsite/)
